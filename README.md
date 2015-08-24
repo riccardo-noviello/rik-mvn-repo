@@ -15,7 +15,7 @@
  ```
 
 2. deploy
- ```mvn -DaltDeploymentRepository=snapshot-repo::default::file:../../rik86-mvn-repo/snapshots clean deploy ```
+ ```mvn -DaltDeploymentRepository=snapshot-repo::default::file:../../rikf-mvn-repo/snapshots clean deploy ```
 
 3. push jar to rik-mvn-repo
 
