@@ -1,4 +1,6 @@
 # rik-mvn-repo
+This is a github repository for some of my projects. You can download a snapshot of my work as a maven dependency. Here is how:
+
 
 1. add target
  ```
